@@ -27,5 +27,5 @@ Sigue estos pasos para instalar y ejecutar la aplicación en tu entorno local:
  Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/todolist-app.git
+   git clone https://github.com/Rokux20/TodoList.git
    cd todolist-app
